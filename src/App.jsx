@@ -1,4 +1,4 @@
-import ButtonGradient from "./components/ButtonGradient";
+import ButtonGradient from "./assets/svg/ButtonGradient";
 import Button from "./components/Button";
 
 const App = () => {
